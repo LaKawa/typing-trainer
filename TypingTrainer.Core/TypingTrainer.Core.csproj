@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="PdfPig" Version="0.1.11" />
+    <PackageReference Include="VersOne.Epub" Version="3.3.4" />
+  </ItemGroup>
+
 </Project>
