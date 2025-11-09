@@ -71,3 +71,7 @@ nohup.out
 *.swo
 *.swp
 *.swn
+
+# Project-specific 
+
+TypingTrainer.Experiments/
