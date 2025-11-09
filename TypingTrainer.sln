@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypingTrainer.Gui", "Typing
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypingTrainer.Persistence", "TypingTrainer.Persistence\TypingTrainer.Persistence.csproj", "{82AD74AA-1DF2-4394-9740-818F91B50003}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypingTrainer.Tests", "TypingTrainer.Tests\TypingTrainer.Tests.csproj", "{15D5BF36-4BC9-4B0B-AAAB-914A5DC4F4FF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{82AD74AA-1DF2-4394-9740-818F91B50003}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{82AD74AA-1DF2-4394-9740-818F91B50003}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{82AD74AA-1DF2-4394-9740-818F91B50003}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15D5BF36-4BC9-4B0B-AAAB-914A5DC4F4FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15D5BF36-4BC9-4B0B-AAAB-914A5DC4F4FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15D5BF36-4BC9-4B0B-AAAB-914A5DC4F4FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15D5BF36-4BC9-4B0B-AAAB-914A5DC4F4FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
