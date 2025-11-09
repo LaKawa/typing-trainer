@@ -7,8 +7,14 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="F23.StringSimilarity" Version="7.0.0" />
     <PackageReference Include="PdfPig" Version="0.1.11" />
     <PackageReference Include="VersOne.Epub" Version="3.3.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Models\" />
+    <Folder Include="Services\" />
   </ItemGroup>
 
 </Project>
